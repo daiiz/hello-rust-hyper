@@ -1,0 +1,5 @@
+# tiny server
+
+```
+$ cargo run
+```
